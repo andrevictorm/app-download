@@ -6,12 +6,13 @@ Se alguém obrigar você a desbloquear e entregar o celular, o Início esconde o
 que você não quer que a pessoa veja, como banco, e-mail e fotos. Na tela fica parecendo
 um celular comum, só com os poucos apps que você escolheu antes.
 
-[**Baixar Inicio.apk**](https://github.com/andrevictorm/app-download/raw/main/inicio/Inicio.apk) · versão 1.0.115 · 17/11/2026
+[**Baixar Inicio.apk**](https://github.com/andrevictorm/app-download/raw/main/inicio/Inicio.apk) · versão 1.0.117 · 18/11/2026
 
 ## Como funciona
 
 1. **No dia a dia, nada muda.** Você continua usando a tela inicial de sempre do seu celular.
-2. **Um botão invisível fica na tela**, num canto que você escolhe. Com um toque duplo nele
+2. **Um botão fica na tela**, num canto que você escolhe. Ele começa como um círculo branco, para você achar fácil;
+   depois dá para deixá-lo discreto ou invisível. Com um toque duplo nele
    (ou um toque, ou segurando, como preferir), o celular entra no **modo seguro**.
 3. **No modo seguro, só aparecem os apps que você escolheu.** Os outros somem. Os botões
    Início e Voltar não tiram o celular desse modo.
