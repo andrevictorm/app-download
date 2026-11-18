@@ -1,10 +1,12 @@
 # Downloads
 
-Versões de teste dos apps. Toque no link do app pelo celular para baixar.
+Versões de teste dos nossos apps. Abra esta página pelo celular e toque no link do app para baixar.
 
-| App | Versão | Download |
-|---|---|---|
-| Início (Android) | 1.0.115 · 17/11/2026 | [Baixar Inicio.apk](https://github.com/andrevictorm/app-download/raw/main/inicio/Inicio.apk) |
+| App | Para que serve | Versão | Download |
+|---|---|---|---|
+| [**Início**](inicio/) (Android) | Proteção contra assalto: se você for obrigado a entregar o celular desbloqueado, esconde banco, e-mail, fotos e o que mais você escolher, deixando só alguns apps à vista. Para voltar ao normal, só com o seu PIN. | 1.0.115 · 17/11/2026 | [Baixar Inicio.apk](https://github.com/andrevictorm/app-download/raw/main/inicio/Inicio.apk) |
+
+Toque no nome do app para ver como ele funciona e como configurar.
 
 ## Como instalar no Android
 
@@ -14,4 +16,3 @@ Versões de teste dos apps. Toque no link do app pelo celular para baixar.
 4. O Android avisa que o app não é da Play Store. Para versão de teste, é normal: confirme a instalação.
 
 Versões novas instalam por cima e mantêm a configuração.
-Quem instalou uma versão de antes de 17/11/2026 precisa desinstalar uma vez antes.
